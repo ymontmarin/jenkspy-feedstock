@@ -24,7 +24,7 @@ requirements:
     - pip
   run:
     - python
-    - numpy
+    - numpy 3
 
 test:
   requires:
